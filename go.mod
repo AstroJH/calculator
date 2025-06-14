@@ -1,1 +1,1 @@
-module gosty
+module calculator
